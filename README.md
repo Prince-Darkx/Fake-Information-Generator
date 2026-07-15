@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Fake+Information+Generator;%40BlackHatFrozen;%40princemodder;Hack+the+Matrix+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Fake+Information+Generator;%40Prince-Darkx" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ## 🕵️‍♂️ **Fake Information Generator**
 
 > *Generate realistic fake identities for testing, privacy, or just for fun.*  
-> *Crafted with 🖤 by @princemodder & @BlackHatFrozen*
+> *Crafted with 🖤 by @Prince-Darkx*
 
 ---
 
@@ -31,10 +31,10 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/fake-info-gen.git
+git clone https://Prince-Darkx/Fake-Information-Generator/
 
 # Navigate to the directory
-cd fake-info-gen
+cd Fake-Information-Generator
 
 # Install dependencies
 pip install -r requirements.txt
